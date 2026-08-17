@@ -1,0 +1,16 @@
+﻿# Images and large binaries - GitHub Releases only, never in git
+*.img
+*.img.xz
+*.img.gz
+*.zip
+
+# Keys and sensitive configs
+*.key
+*.pem
+*_private*
+wg*.conf
+
+# OS junk files
+Thumbs.db
+desktop.ini
+.DS_Store
