@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Questions & Discussions
+    url: https://github.com/chenjindu/HelpRouter/discussions
+    about: Ask questions, share your setup, and talk with other users
+  - name: Download HelpOS
+    url: https://helprouter.com/products
+    about: Get the latest HelpOS Router Edition image

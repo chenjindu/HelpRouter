@@ -1,16 +1,13 @@
-﻿# Images and large binaries - GitHub Releases only, never in git
+# 镜像文件绝不进 git（GitHub 拒绝 >100MB 的文件；镜像通过 GitHub Releases 发布）
+release/
 *.img
 *.img.xz
-*.img.gz
 *.zip
 
-# Keys and sensitive configs
-*.key
-*.pem
-*_private*
-wg*.conf
+# 本地辅助脚本
+list_dir_files.bat
+list_dir_files.ps1
 
-# OS junk files
+# 系统杂项
 Thumbs.db
-desktop.ini
 .DS_Store
