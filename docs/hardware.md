@@ -4,10 +4,6 @@ The complete parts list. All items are off-the-shelf and available worldwide
 (Amazon links on [helprouter.com/products](https://helprouter.com/products)).
 Equivalent parts with the same specs also work — these are the exact models we build and test with.
 
-<p align="center">
-  <img src="images/hardware-assembled.png" alt="Assembled HelpRouter" width="720">
-</p>
-
 | # | Photo | Part | Notes |
 |---|-------|------|-------|
 | 1 | <img src="images/hw_01.png" width="120" alt="Raspberry Pi 5"> | **Raspberry Pi 5** | 4GB RAM or more (8GB recommended) |
