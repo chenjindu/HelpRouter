@@ -8,16 +8,16 @@ Equivalent parts with the same specs also work — these are the exact models we
   <img src="images/hardware-assembled.png" alt="Assembled HelpRouter" width="720">
 </p>
 
-| # | Part | Notes |
-|---|------|-------|
-| 1 | **Raspberry Pi 5** | 4GB RAM or more (8GB recommended) |
-| 2 | **microSD card or USB SSD** | 16 GB or larger; SSD gives better longevity under 24/7 use |
-| 3 | **27W USB-C power supply** | Official Raspberry Pi 27W PSU recommended — the Pi 5 is picky about power |
-| 4 | **Waveshare PCIe to M.2 E-Key HAT** | For Raspberry Pi 5; supports NGFF (M.2 E-Key) wireless NICs, USB Bluetooth; HAT+ standard |
-| 5 | **MT7922 Wi-Fi 6E network card** | M.2 E-Key; drives the 2.4G + 5G dual-band hotspot |
-| 6 | **ALFA NETWORK AWUS036AXML** | 802.11axe WiFi 6E USB 3.0 adapter (AXE3000, tri-band); the upstream/repeater radio |
-| 7 | **Bingfu dual-band antennas (2-pack)** | 2.4/5/5.8 GHz 3dBi MIMO, RP-SMA male; connect to the MT7922 |
-| 8 | **GeeekPi aluminum case for Pi 5** | With active cooler; supports PCIe peripheral boards (X1000/X1001/X1003/N04/N05) |
+| # | Photo | Part | Notes |
+|---|-------|------|-------|
+| 1 | <img src="images/hw_01.png" width="120" alt="Raspberry Pi 5"> | **Raspberry Pi 5** | 4GB RAM or more (8GB recommended) |
+| 2 | <img src="images/hw_02.png" width="120" alt="microSD / USB SSD"> | **microSD card or USB SSD** | 16 GB or larger; SSD gives better longevity under 24/7 use |
+| 3 | <img src="images/hw_03.png" width="120" alt="27W USB-C PSU"> | **27W USB-C power supply** | Official Raspberry Pi 27W PSU recommended — the Pi 5 is picky about power |
+| 4 | <img src="images/hw_04.png" width="120" alt="Waveshare M.2 HAT"> | **Waveshare PCIe to M.2 E-Key HAT** | For Raspberry Pi 5; supports NGFF (M.2 E-Key) wireless NICs, USB Bluetooth; HAT+ standard |
+| 5 | <img src="images/hw_05.png" width="120" alt="MT7922 WiFi card"> | **MT7922 Wi-Fi 6E network card** | M.2 E-Key; drives the 2.4G + 5G dual-band hotspot |
+| 6 | <img src="images/hw_06.png" width="120" alt="ALFA AWUS036AXML"> | **ALFA NETWORK AWUS036AXML** | 802.11axe WiFi 6E USB 3.0 adapter (AXE3000, tri-band); the upstream/repeater radio |
+| 7 | <img src="images/hw_07.png" width="120" alt="Bingfu antennas"> | **Bingfu dual-band antennas (2-pack)** | 2.4/5/5.8 GHz 3dBi MIMO, RP-SMA male; connect to the MT7922 |
+| 8 | <img src="images/hw_08.png" width="120" alt="GeeekPi case"> | **GeeekPi aluminum case for Pi 5** | With active cooler; supports PCIe peripheral boards (X1000/X1001/X1003/N04/N05) |
 
 ## Assembly Notes
 
