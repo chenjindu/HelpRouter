@@ -33,6 +33,10 @@ Your devices, your services, and your workflow stay exactly the same, no matter 
 3. **Multi-Service Server** — SSH, SMB, FTP, Git, SVN, DNS, Web and File server, running simultaneously
 
 <p align="center">
+  <img src="docs/images/webui-login.png" alt="HelpRouter device" width="720">
+</p>
+
+<p align="center">
   <img src="docs/images/webui-dashboard.png" alt="HelpOS Web Interface" width="720">
 </p>
 
@@ -53,8 +57,8 @@ Your devices, your services, and your workflow stay exactly the same, no matter 
 1. **Get the hardware** — see the [Hardware List](docs/hardware.md) (Raspberry Pi 5 + off-the-shelf parts)
 2. **Download** the latest HelpOS Router Edition image from [helprouter.com](https://helprouter.com/products) or [Releases](https://github.com/chenjindu/HelpRouter/releases)
 3. **Flash** it to a microSD card or SSD — see the [Flash Guide](docs/flash-guide.md)
-4. **Power on**, connect to the `HelpRouter` WiFi hotspot (default password: `helprouter`)
-5. Open **http://192.168.8.1** and follow the setup wizard
+4. **Power on**, connect to the `HelpRouter-5G-xxxx` or `HelpRouter-2.4G-xxxx` WiFi hotspot (default password: `helprouter`)
+5. Open **http://192.168.111.200:8080** and log in with `admin` / `helprouter`
 
 From download to a working router in about ten minutes.
 
