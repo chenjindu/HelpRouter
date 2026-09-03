@@ -12,7 +12,7 @@ Equivalent parts with the same specs also work — these are the exact models we
 | 4 | <img src="images/hw_04.png" width="120" alt="Waveshare M.2 HAT"> | **Waveshare PCIe to M.2 E-Key HAT** | For Raspberry Pi 5; supports NGFF (M.2 E-Key) wireless NICs, USB Bluetooth; HAT+ standard |
 | 5 | <img src="images/hw_05.png" width="120" alt="MT7922 WiFi card"> | **MT7922 Wi-Fi 6E network card** | M.2 E-Key; drives the 2.4G + 5G dual-band hotspot |
 | 6 | <img src="images/hw_06.png" width="120" alt="Bingfu antennas"> | **Bingfu dual-band antennas (2-pack)** | 2.4/5/5.8 GHz 3dBi MIMO, RP-SMA male; connect to the MT7922 |
-| 7 | <img src="images/hw_07.png" width="120" alt="ALFA AWUS036AXML"> | **ALFA NETWORK AWUS036AXML** | 802.11axe WiFi 6E USB 3.0 adapter (AXE3000, tri-band); the upstream/repeater radio |
+| 7 | <img src="images/hw_07.png" width="120" alt="ALFA AWUS036AXML"> | **ALFA NETWORK AWUS036AXML** | 802.11axe WiFi 6E USB 3.0 adapter (AXE3000, tri-band); the upstream/repeater radio ( or EDUP® USB 3.0 WiFi 6E Adapter for PC, AX3000M, Same Chip: Mt7921au  ) |
 | 8 | <img src="images/hw_08.png" width="120" alt="microSD / USB SSD"> | **microSD card or USB SSD** | 16 GB or larger; SSD gives better longevity under 24/7 use |
 
 ## Assembly Notes
