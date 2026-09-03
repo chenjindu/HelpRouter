@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Turn any network into your private network.</b><br>
-  A Raspberry Pi 5 based portable private network gateway, powered by <b>HelpOS Router Edition</b>.
+  A Raspberry Pi 5 based portable private router, powered by <b>HelpOS Router Edition</b>.
 </p>
 
 <p align="center">
